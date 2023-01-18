@@ -22,11 +22,11 @@ textarea {
 }
 
 .row {
-  border-top: 1px solid white;
+  border-top: 1px solid rgb(15, 181, 81);
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: #d8dc53;
   color: #000000;
   border-top: 1px dashed #000000;
 }
@@ -50,7 +50,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #06e336;
   color: white;
 }
 
